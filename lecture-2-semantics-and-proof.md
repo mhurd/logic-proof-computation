@@ -1,4 +1,4 @@
-## Model Theory
+## Lecture 2 - Model Theory
 
 `4 = (2 + x)` is an *open sentence* (it has *variables*), if we replace the variables with *constants* then we get a *closed sentence* which may be true or false. If the sentence can be made true then this *interpretation* is considered a *model* of that sentence, if it is made false then it is a *countermodel* of that sentence. If the sentence has at least one model it is considered *satisfiable*. 
 
