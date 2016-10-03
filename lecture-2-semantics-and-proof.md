@@ -5,5 +5,5 @@
 There are two special cases:
 
 1. An open sentence is *valid* if only when every interpretation is a model of that sentence (i.e. `x + y = y + x`)
-2. An open sentance is *countervalid* only if every interpretation is a countermodel of that sentence (i.e. `x + 1 = x`)
+2. An open sentence is *countervalid* only if every interpretation is a countermodel of that sentence (i.e. `x + 1 = x`)
 
